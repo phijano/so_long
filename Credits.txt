@@ -1,0 +1,9 @@
+Sprites credits
+
+Hero -> SinisterMuffin
+Enemy -> ElvGames
+Wall, Road and Door -> Elthen's Pixel Art Shop
+Stars -> Kronbits
+Font -> JustFredrik
+
+Thank you all!
