@@ -26,7 +26,11 @@ Press the ESC key to close the window and the program.
 Sprites:
 
 Hero -> SinisterMuffin
+
 Enemy -> ElvGames
+
 Wall, Road and Door -> Elthen's Pixel Art Shop
+
 Stars -> Kronbits
+
 Font -> JustFredrik
