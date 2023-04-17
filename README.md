@@ -22,3 +22,11 @@ Press the ESC key to close the window and the program.
 ![alt text](https://github.com/phijano/so_long/blob/main/hubimg/Image.png?raw=true)
 
 ## Credits
+
+Sprites:
+
+Hero -> SinisterMuffin
+Enemy -> ElvGames
+Wall, Road and Door -> Elthen's Pixel Art Shop
+Stars -> Kronbits
+Font -> JustFredrik
