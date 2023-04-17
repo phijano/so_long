@@ -16,3 +16,6 @@ The map are composed of: 0 for an empty space, 1 for a wall, C for a collectible
 The W, A, S and D or arrows keys are used to move the main character.
 
 Press the ESC key to close the window and the program.
+
+
+![alt text](https://github.com/phijano/so_long/blob/main/hubimg/Image.png?raw=true)
