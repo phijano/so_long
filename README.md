@@ -17,7 +17,7 @@ The W, A, S and D or arrows keys are used to move the main character.
 
 Press the ESC key to close the window and the program.
 
-## Image
+## How it looks like
 
 ![alt text](https://github.com/phijano/so_long/blob/main/hubimg/Image.png?raw=true)
 
